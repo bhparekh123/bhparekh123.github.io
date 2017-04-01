@@ -1,4 +1,4 @@
-# This is a perosnal website
+# This is a personal website
 
 Stuff
 > fun quote
